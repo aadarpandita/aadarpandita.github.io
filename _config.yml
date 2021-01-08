@@ -1,0 +1,18 @@
+# Site settings
+title: 
+description: 
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+ url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+username: Aadar Pandita
+user_description: 
+user_subtitle: 
+email: aadarpandita@gmail.com
+facebook_username: 
+instagram_username: 
+twitter_username: 
+github_username: aadarpandita
+
+sass:
+  sass_dir: css
+  style: compressed
