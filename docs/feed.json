@@ -3,7 +3,7 @@
     "title": "",
     "home_page_url": "/",
     "feed_url": "/feed.json",
-    "description": {"url":"localhost:4000"},
+    "description": null,
     "icon": "/img/favicon/apple-touch-icon.png",
     "favicon": "/img/favicon/favicon.ico",
     "expired": false,
