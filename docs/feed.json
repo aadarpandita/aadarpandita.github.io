@@ -1,0 +1,103 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
+    "description": {"url":"localhost:4000"},
+    "icon": "/img/favicon/apple-touch-icon.png",
+    "favicon": "/img/favicon/favicon.ico",
+    "expired": false,
+    "items": [
+    
+        {
+            "id": "/2020/12/01/heart-disease-prediction.html",
+            "title": "Heart Disease Prediction",
+            "summary": null,
+            "content_text": "Medical organisations, all around the world, collect data on various health related issues. This data can be exploited using various machine learning techniques to gain useful insights. But the data collected is very massive and, many times, this data can be very noisy. These datasets, which are too overwhelming for human minds to comprehend, can be easily explored using various machine learning techniques. Thus, these algorithms have become very useful, in recent times, to predict the presence or absence of heart related diseases accurately.",
+            "content_html": "<p>Medical organisations, all around the world, collect data on various health related issues. This data can be exploited using various machine learning techniques to gain useful insights. But the data collected is very massive and, many times, this data can be very noisy. These datasets, which are too overwhelming for human minds to comprehend, can be easily explored using various machine learning techniques. Thus, these algorithms have become very useful, in recent times, to predict the presence or absence of heart related diseases accurately.</p>",
+            "url": "/2020/12/01/heart-disease-prediction.html",
+            "image": "/img/heart.png",
+            
+            
+            "tags": ["Python","Flask","HTML/CSS"],
+            "date_published": "2020-12-01T00:00:00+05:30",
+            "date_modified": "2020-12-01T00:00:00+05:30",
+            "author": {
+                "name": "Aadar Pandita"
+            }
+        },
+    
+        {
+            "id": "/2020/05/20/live-sketch.html",
+            "title": "Live Sketch ",
+            "summary": null,
+            "content_text": "A computer vision project that converts images into sketches.",
+            "content_html": "<p>A computer vision project that converts images into sketches.</p>",
+            "url": "/2020/05/20/live-sketch.html",
+            "image": "/img/sketch.png",
+            
+            
+            "tags": ["Python","OpenCV"],
+            "date_published": "2020-05-20T00:00:00+05:30",
+            "date_modified": "2020-05-20T00:00:00+05:30",
+            "author": {
+                "name": "Aadar"
+            }
+        },
+    
+        {
+            "id": "/2020/03/25/shape-size-identifier.html",
+            "title": "Shape Identifier and Size Comparer",
+            "summary": null,
+            "content_text": "A basic geometric shape identifier and size comparison project",
+            "content_html": "<p>A basic geometric shape identifier and size comparison project</p>",
+            "url": "/2020/03/25/shape-size-identifier.html",
+            "image": "/img/shapes.png",
+            
+            
+            "tags": ["Python","OpenCV"],
+            "date_published": "2020-03-25T00:00:00+05:30",
+            "date_modified": "2020-03-25T00:00:00+05:30",
+            "author": {
+                "name": "Aadar"
+            }
+        },
+    
+        {
+            "id": "/2020/01/20/digit-recognizer.html",
+            "title": "Digit Recognizer",
+            "summary": null,
+            "content_text": "A basic computer vision project that uses MNIST dataset to identify digits using KNN",
+            "content_html": "<p>A basic computer vision project that uses MNIST dataset to identify digits using KNN</p>",
+            "url": "/2020/01/20/digit-recognizer.html",
+            "image": "/img/MNIST.png",
+            
+            
+            "tags": ["Python","OpenCV"],
+            "date_published": "2020-01-20T00:00:00+05:30",
+            "date_modified": "2020-01-20T00:00:00+05:30",
+            "author": {
+                "name": "Aadar"
+            }
+        },
+    
+        {
+            "id": "/2018/04/21/snake-master.html",
+            "title": "Snakes Master Game",
+            "summary": null,
+            "content_text": "A two dimension snake game with different mazes (played on the terminal)",
+            "content_html": "<p>A two dimension snake game with different mazes (played on the terminal)</p>",
+            "url": "/2018/04/21/snake-master.html",
+            "image": "/img/snake.png",
+            
+            
+            
+            "date_published": "2018-04-21T00:00:00+05:30",
+            "date_modified": "2018-04-21T00:00:00+05:30",
+            "author": {
+                "name": "Aadar"
+            }
+        }
+    
+    ]
+}
