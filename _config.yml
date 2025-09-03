@@ -1,17 +1,15 @@
 # Site settings
-title: 
-description: 
+title: "Aadar Pandita"
+description: "Product Management Aspirant | 3 Years of Data Engineering Experience | MS in Data Science & Management from IIT Indore & IIM Indore"
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 username: Aadar Pandita
-user_description: 
-user_subtitle: 
+user_description: Product Management Aspirant | 3 Years of Data Engineering Experience
+user_subtitle: MS in Data Science & Management from IIT Indore & IIM Indore
 email: aadarpandita@gmail.com
-facebook_username: 
-instagram_username: 
-twitter_username: 
 github_username: aadarpandita
+linkedin_username: aadarpandita
 
 sass:
   sass_dir: css
